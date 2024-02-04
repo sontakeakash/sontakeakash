@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @sontakeakash working as a Quality ENgineer (Tester in a product based org in HYderabad)
-- 👀 I’m interested in automation relatedt UI ans API
+- 👋 Hi, I’m @sontakeakash working as a Quality Engineer (Tester in a product based org in Hyderabad, INDIA having around 4.3 years of experience)
+- I will be posting the frameworks i am working on in this github profile
+- 👀 I’m interested in automation Testing relatedt TO UI ans API
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to freelance as as Automation QE
 - 📫 You can reach out to me on aakashsontake391@gmail.com
